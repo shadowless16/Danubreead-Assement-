@@ -1,0 +1,4 @@
+GITHUB is a platform where developers are able to store their codes online so that i can be later be retive and worked on.
+
+it allows collaboration between developers 
+and can also be used to track changes made in code.

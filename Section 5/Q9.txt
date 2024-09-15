@@ -1,0 +1,10 @@
+Step to install python extension
+Step 1: Open VS Code
+Step 2: Click on the extension icon
+Step 3: Search for python extension
+step 4: after you found the extension click on the install button
+
+Step to run python file in the terminal
+Step 1: Create a new file and save it with .py
+Step 2: you open the terminal bt pressing ctrl+c
+Step 3: You run the python code written in the python file
