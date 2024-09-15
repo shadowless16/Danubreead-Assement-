@@ -1,14 +1,15 @@
 # A
 import random
 
-roll_dice = print(random.randint(1, 6))
+roll_dice = random.randint(1, 6)
+print(roll_dice)
 
 # B
 
-choice = ["Rock", "Paper", "Scissors"]
+choices = ["rock", "paper", "scissors"]
 
-user_choice = input("Enter rock, paper or scissors").lower()
-computer_choice = random.choice(choice)
+user_choice = input("Enter rock, paper or scissors: ").lower()
+computer_choice = random.choice(choices)
 print(f"Computer choice {computer_choice}")
 
 if user_choice == computer_choice:
